@@ -11,3 +11,16 @@ nav {
 
 }
 
+main{
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    width: 1024px;
+
+}
+
+footer {
+    background-color: rgb(206, 206, 77);
+    height: 40px;
+    width: 1024px;
+
+}
