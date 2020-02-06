@@ -12,13 +12,10 @@ body{
 
 
 
-
 header {
     background-color: rgb(255, 255, 255);
-    height: 118px;
-    text-align:center;
-    text-size-adjust: 80px;
-  
+    height: 60px;
+    text-align:center;  
     
 }
 
@@ -43,4 +40,31 @@ footer{
     height: 100px;
     
 
+}
+
+h1{
+    font-size: 50px;
+    
+    
+
+}
+
+
+h2 {
+    font-size:40px;
+    color:rgb(1, 1, 255);
+    font-style: oblique;
+        
+}
+
+h3 { 
+    font-size: 30px;
+    color:rgb(1, 1, 255);
+    text-indent:;
+}
+
+h4 { 
+    font-size: 50px;
+    color:rgb(1, 1, 255);
+    font-style: oblique;
 }
