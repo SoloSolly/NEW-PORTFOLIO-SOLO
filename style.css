@@ -1,7 +1,6 @@
-.container {
-    margin-left: auto;
-    margin-right: auto;
-    width: 1024px;
+
+html{
+    height: 100%;
 }
 
 
@@ -9,9 +8,23 @@
 body{
     background-color: black;
     background-image: url(images/IMG-20171122-WA0005.jpg);
-    padding-left: 40cm;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 
 }
+
+
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
 
 
 
