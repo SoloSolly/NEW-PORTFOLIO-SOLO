@@ -3,3 +3,11 @@ header {
     height: 118px;
     width: 1024px;
 }
+
+nav {
+    background-color: red;
+    height: 40px;
+    width: 1024px;
+
+}
+
