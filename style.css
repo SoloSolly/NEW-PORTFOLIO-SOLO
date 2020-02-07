@@ -141,7 +141,7 @@ nav{
 }
 
 nav ul{
-    float:right;
+    float:center;
     list-style: none;
 }
 
