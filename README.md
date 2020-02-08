@@ -1,11 +1,11 @@
-Personal Portfolio Website
+Portfolio Website
 Author
-Timothy Maina Kihara
+SoloSolly
 Description
 This is my portfolio website. It contains details about me, projects i have done and it also has links to my other websites which i have worked on over the years.
 
 Setup/Installation Requirements
-Open terminal (CTRL ALT T) git clone https://github.com/timothy12maisha/-MY-PORTFOLIO-PROJECT.git cd Portfolio easy-to-understand use atom . or code . to open the clone repo on Atom or vs -code respectively
+Open terminal (CTRL ALT T) https://github.com/SoloSolly/NEW-PORTFOLIO-SOLO/commits/portfolio-branch cd Portfolio-branch easy-to-understand use atom . or code . to open the clone repo on Atom or vs -code respectively
 
 Known tags
 My website is compatible mainly with desktop and not well responsive on phone and tab
